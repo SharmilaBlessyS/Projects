@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "nodemon": "^3.1.4"
+  },
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "Example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
